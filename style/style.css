@@ -104,8 +104,7 @@ img{
     width: 90px;
     height: 35px;
     border-radius: 5px;
-    background-color: transparent;
-    border: none;
-    box-shadow: 0 0 5px 0 rgb(112, 109, 109);
+    background-color: #ffb80357;
+    border: 1px solid  rgb(0, 0, 0);
     cursor: pointer;
 }
